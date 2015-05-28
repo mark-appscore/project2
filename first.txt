@@ -1,2 +1,4 @@
 My project
 staged modified file.
+test amend
+
