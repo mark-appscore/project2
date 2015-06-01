@@ -2,3 +2,4 @@ My project
 staged modified file.
 test amend
 add from github.
+add from github again.
