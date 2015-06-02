@@ -4,6 +4,10 @@ test amend
 add from github.
 add from github again.
 add locally.
+<<<<<<< HEAD
 add for master branch.
 add for testing branch.
+
+add from github
+add from home.
 
